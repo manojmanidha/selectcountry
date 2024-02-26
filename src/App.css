@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* App.css */
+.location-selector {
+  text-align: center;
+}
+
+.dropdown-row {
+  display: flex;
+  justify-content: center;
+}
+
+.dropdown-row label {
+  margin: 0 10px; /* Add some spacing between dropdowns */
 }
